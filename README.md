@@ -1,4 +1,4 @@
-# MetodosMatematicosAplicadosSistemasBiologicos2020
+# Métodos Matemáticos Aplicados a Sistemas Biológicos 
 
 
 - Revisão de Números Complexos (Aula 1)
