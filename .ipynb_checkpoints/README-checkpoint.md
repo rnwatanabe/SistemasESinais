@@ -3,16 +3,15 @@
 ## Semana 1
 - Introdução (Aula 1)
 - Energia e Potência (Aula 1)
+- Funções degrau e impulso de tempo discreto (Aula 1)
 - Transformações de sinais na variável independente (Aula 1)
-- Representação complexa de sinais periódicos de tempo contínuo (Aula 2)
-- Representação complexa de sinais periódicos de tempo discreto (Aula 3)
+- Representação complexa de sinais periódicos (Aula 2)
+- Sistemas discretos (Aula 3)
+- Sistemas discretos descritos por equações de diferenças (Aula 3)
 
 ## Semana 2
 
-- Sistemas discretos (Aula 4)
-- Funções degrau e impulso de tempo discreto (Aula 4)
-- Sistemas discretos descritos por equações de diferenças (Aula 4)
-- Sistemas discretos descritos por diagrama de blocos e operador atraso(Aula 5)
+- Sistemas discretos descritos por diagrama de blocos e operador atraso(Aula 4)
 - Resposta ao impulso (Aula 5)
 - Sistemas discretos simples e polos (Aula 6)
 
@@ -20,13 +19,13 @@
 - Transformada Z (Aula 7 e 8)
 - Prova 1 (Aula 9)
 
-## Semana 4
-- Sistemas de tempo contínuo (Aula 10 e 11)
-- Sinais degrau e impulso de tempo contínuo (Aula 11)
-- Tranformada de Laplace (Aula 11 e 12)
 
-## Semana 5
-- Convolução (Aula 13) 
+
+## Semana 4
+- Sistemas de tempo contínuo (Aula 10)
+- Convolução
+- Propriedades de sistemas Lineares e invariantes no tempo
+- Propriedades da função impulso
 - Resposta de sistemas a exponenciais complexas
 - Representação de sinais periódicos de tempo contínuo com séries de Fourier
 - Transformada de Fourier
