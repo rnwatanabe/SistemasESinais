@@ -4,6 +4,7 @@
 - Introdução (Aula 1)
 - Energia e Potência (Aula 1)
 - Transformações de sinais na variável independente (Aula 1)
+- Revisão de números complexos (Aula 2)
 - Representação complexa de sinais periódicos de tempo contínuo (Aula 2)
 - Representação complexa de sinais periódicos de tempo discreto (Aula 3)
 
@@ -26,12 +27,27 @@
 - Tranformada de Laplace (Aula 11 e 12)
 
 ## Semana 5
-- Convolução (Aula 13) 
+- Convolução (Aula 13)
+- Resposta em frequência (Aula 14 e 15)
+
+## Semana 6
 - Resposta de sistemas a exponenciais complexas
 - Representação de sinais periódicos de tempo contínuo com séries de Fourier
 - Transformada de Fourier
 - Propriedades da Transformada de Fourier
-- 
+
+## Semana 7
+
+## Semana 8
+
+## Semana 9
+
+## Semana 10
+
+## Semana 11
+
+## Semana 12
+
 
 - Revisão de Números Complexos (Aula )
 - Sinais e Sistemas a Tempo Contínuo 
