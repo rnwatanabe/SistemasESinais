@@ -1,19 +1,18 @@
 # Métodos Matemáticos Aplicados a Sistemas Biológicos 
 
 ## Semana 1
-- Introdução (Aula 1)
-- Energia e Potência (Aula 1)
-- Transformações de sinais na variável independente (Aula 1)
-- Revisão de números complexos (Aula 2)
-- Representação complexa de sinais periódicos de tempo contínuo (Aula 2)
-- Representação complexa de sinais periódicos de tempo discreto (Aula 3)
+- [Introdução (Aula 1)](Introducao.ipynb)
+- [Transformações de sinais na variável independente (Aula 1)](TransfVarIndep.ipynb)
+- [Revisão de números complexos (Aula 2)](NumerosComplexos.ipynb)
+- [Representação complexa de sinais periódicos de tempo contínuo (Aula 2)](RepresentaçãoComplexaContinua.ipynb)
+- [Representação complexa de sinais periódicos de tempo discreto (Aula 3)](RepresentacaoComplexaDiscreta.ipynb)
+
+- **Lista 1 (para 05/06), 8h**
 
 ## Semana 2
 
-- Sistemas discretos (Aula 4)
-- Funções degrau e impulso de tempo discreto (Aula 4)
-- Sistemas discretos descritos por equações de diferenças (Aula 4)
-- Sistemas discretos descritos por diagrama de blocos e operador atraso(Aula 5)
+- [Funções degrau e impulso de tempo discreto (Aula 4)](DegrauImpulsoDiscreto.ipynb)
+- Sistemas discretos (Aula 4 e 5)
 - Resposta ao impulso (Aula 5)
 - Sistemas discretos simples e polos (Aula 6)
 
@@ -33,6 +32,7 @@
 ## Semana 6
 - Resposta de sistemas a exponenciais complexas
 - Representação de sinais periódicos de tempo contínuo com séries de Fourier
+- Energia e Potência
 - Transformada de Fourier
 - Propriedades da Transformada de Fourier
 
@@ -49,7 +49,7 @@
 ## Semana 12
 
 
-- Revisão de Números Complexos (Aula )
+- Revisão de Números Complexos (Aula 2)
 - Sinais e Sistemas a Tempo Contínuo 
     + Sinais (Aula 1)
     + Sistemas (Aula 1)
@@ -59,7 +59,7 @@
     + Causalidade 
 - Representação de Sinais Periódicos usando Séries de Fourier
     + Forma Trigonométrica (Aula )
-    + Forma Exponencial (Aula )
+    + Forma Exponencial (Aula 2,3)
     + Espectro de Amplitude, Espectro de Fase e Relação de Parseval (Aula )
 - Sistemas Lineares e Invariantes no Tempo (SLIT)
     + Relação Entrada-Saída (Aula )
