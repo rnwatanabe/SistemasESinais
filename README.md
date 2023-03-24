@@ -13,7 +13,7 @@
 ## Semana 2
 
 - [Funções degrau e impulso de tempo discreto (Aula 4)](DegrauImpulsoDiscreto.ipynb)
-- Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)
+- [Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)](SistemasDiscreto.ipynb)
 - Representação com diagrama de blocos  (Aula 6)
 - Operador atraso e sistemas equivalentes (Aula 6)
 

@@ -1,6 +1,7 @@
 # Métodos Matemáticos Aplicados a Sistemas Biológicos 
 
 ## Semana 1
+
 - [Introdução (Aula 1)](Introducao.ipynb)
 - [Transformações de sinais na variável independente (Aula 1)](TransfVarIndep.ipynb)
 - [Revisão de números complexos (Aula 2)](NumerosComplexos.ipynb)
@@ -12,18 +13,22 @@
 ## Semana 2
 
 - [Funções degrau e impulso de tempo discreto (Aula 4)](DegrauImpulsoDiscreto.ipynb)
-- Sistemas discretos (Aula 4 e 5)
-- Resposta ao impulso (Aula 5)
-- Sistemas discretos simples e polos (Aula 6)
+- [Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)](SistemasDiscreto.ipynb)
+- Representação com diagrama de blocos  (Aula 6)
+- Operador atraso e sistemas equivalentes (Aula 6)
 
 ## Semana 3
-- Transformada Z (Aula 7 e 8)
-- Prova 1 (Aula 9)
+
+- Resposta ao impulso (Aula 7)
+- Sistemas discretos simples e polos (Aula 8)
+- Transformada Z (Aula 9)
+
 
 ## Semana 4
-- Sistemas de tempo contínuo (Aula 10 e 11)
+- Prova 1 (Aula 10)
+- Sistemas de tempo contínuo (Aula 11)
 - Sinais degrau e impulso de tempo contínuo (Aula 11)
-- Tranformada de Laplace (Aula 11 e 12)
+- Tranformada de Laplace (Aula 11)
 
 ## Semana 5
 - Convolução (Aula 13)
