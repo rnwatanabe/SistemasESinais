@@ -1,6 +1,8 @@
 # Métodos Matemáticos Aplicados a Sistemas Biológicos 
 
-## Semana 1
+## Cronograma (tentativa)
+
+### Semana 1
 
 - [Introdução (Aula 1)](Introducao.ipynb)
 - [Transformações de sinais na variável independente (Aula 1)](TransfVarIndep.ipynb)
@@ -10,48 +12,51 @@
 
 - **Lista 1 (para 05/06), 8h**
 
-## Semana 2
+### Semana 2
 
 - [Funções degrau e impulso de tempo discreto (Aula 4)](DegrauImpulsoDiscreto.ipynb)
 - [Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)](SistemasDiscreto.ipynb)
-- Representação com diagrama de blocos  (Aula 6)
-- Operador atraso e sistemas equivalentes (Aula 6)
+- [Representação com diagrama de blocos  (Aula 5)](DiagBlocoDisc.ipynb)
+- [Resposta ao impulso e somatória de convolução (Aula 6)](RespostaImpulsoDiscreta.ipynb)
 
-## Semana 3
+### Semana 3
 
-- Resposta ao impulso (Aula 7)
 - Sistemas discretos simples e polos (Aula 8)
 - Transformada Z (Aula 9)
+- Método das Frações parciais (Aula 10)
+- Transformada Inversa (Aula 10)
 
+### Semana 4
 
-## Semana 4
-- Prova 1 (Aula 10)
-- Sistemas de tempo contínuo (Aula 11)
+- Sistemas de tempo contínuo e suas características (Aula 11)
 - Sinais degrau e impulso de tempo contínuo (Aula 11)
+- Representação de diagrama de blocos de sistemas contínuos (Aula 12)
+
 - Tranformada de Laplace (Aula 11)
 
-## Semana 5
+### Semana 5
 - Convolução (Aula 13)
 - Resposta em frequência (Aula 14 e 15)
 
-## Semana 6
+### Semana 6
 - Resposta de sistemas a exponenciais complexas
 - Representação de sinais periódicos de tempo contínuo com séries de Fourier
 - Energia e Potência
 - Transformada de Fourier
 - Propriedades da Transformada de Fourier
+- Prova 1 
 
-## Semana 7
+### Semana 7
 
-## Semana 8
+### Semana 8
 
-## Semana 9
+### Semana 9
 
-## Semana 10
+### Semana 10
 
-## Semana 11
+### Semana 11
 
-## Semana 12
+### Semana 12
 
 
 - Revisão de Números Complexos (Aula 2)
