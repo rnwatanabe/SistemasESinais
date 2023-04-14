@@ -6,7 +6,7 @@
 
 - [Introdução (Aula 1)](Introducao.ipynb)
 - [Transformações de sinais na variável independente (Aula 1)](TransfVarIndep.ipynb)
-- [Revisão de números complexos (Aula 2)](NumerosComplexos.ipynb)
+- [Revisão de números complexos (Aula 1 e 2)](NumerosComplexos.ipynb)
 - [Representação complexa de sinais periódicos de tempo contínuo (Aula 2)](RepresentaçãoComplexaContinua.ipynb)
 - [Representação complexa de sinais periódicos de tempo discreto (Aula 3)](RepresentacaoComplexaDiscreta.ipynb)
 
@@ -16,47 +16,79 @@
 
 - [Funções degrau e impulso de tempo discreto (Aula 4)](DegrauImpulsoDiscreto.ipynb)
 - [Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)](SistemasDiscreto.ipynb)
-- [Representação com diagrama de blocos  (Aula 5)](DiagBlocoDisc.ipynb)
-- [Resposta ao impulso e somatória de convolução (Aula 6)](RespostaImpulsoDiscreta.ipynb)
+- [Representação com diagrama de blocos (Aula 6)](DiagBlocoDisc.ipynb)
+
+- **Lista 2 (para 12/06), 8h**
+
 
 ### Semana 3
 
-- Sistemas discretos simples e polos (Aula 8)
-- Transformada Z (Aula 9)
-- Método das Frações parciais (Aula 10)
-- Transformada Inversa (Aula 10)
+- Solução de equações de diferenças (Aula 7)
+- [Resposta ao impulso de tempo discreto (Aula 8)](RespostaImpulsoDiscreta.ipynb)
+- [Sistemas de tempo contínuo: representação com equações diferenciais e suas propriedades (Aula 9)](SistemasContinuo.ipynb)
+- [Representação de diagrama de blocos de sistemas contínuos (Aula 9)](DiagBlocoCont.ipynb)
+- [Sinais degrau e impulso de tempo contínuo (Aula 9)](DegrauImpulsoContinuo.ipynb)
+
+- **Lista 3 (para 19/06), 8h**
 
 ### Semana 4
 
-- Sistemas de tempo contínuo e suas características (Aula 11)
-- Sinais degrau e impulso de tempo contínuo (Aula 11)
-- Representação de diagrama de blocos de sistemas contínuos (Aula 12)
+- Solução de equações diferenciais (Aula 10)
+- Resposta ao impulso de tempo contínuo(Aula 11)
 
-- Tranformada de Laplace (Aula 11)
+- **Prova 1 (aula 12) 21/06**
 
 ### Semana 5
-- Convolução (Aula 13)
-- Resposta em frequência (Aula 14 e 15)
+
+- [Somatória de convolução (Aula 13)](SomatoriaConvolução.ipynb)
+- Integral de convolução (Aula 14)
+- Resposta em frequência: tempo contínuo (Aula 15)
 
 ### Semana 6
-- Resposta de sistemas a exponenciais complexas
-- Representação de sinais periódicos de tempo contínuo com séries de Fourier
-- Energia e Potência
-- Transformada de Fourier
-- Propriedades da Transformada de Fourier
-- Prova 1 
+
+- Resposta em frequência: tempo discreto (Aula 16)
+- Diagaram de Bode (Aula 17)
+- Atraso de Grupo (Aula 18)
+- Sistemas de Fase Linear (Aula 18)
+- Sistemas de Fase Mínima. (Aula 18)
 
 ### Semana 7
 
+- Transformada Z (Aula 19)
+- Transformada Z Inversa (Aula 20 e 21)
+- Método das Frações parciais (Aula 20 e 21)
+
 ### Semana 8
+
+- Transformada de Laplace (Aula 16)
+- Transformada Inversa de Laplace (Aula 17)
+
+- **Prova 2 (19/07) (Aula 18)**
 
 ### Semana 9
 
+- Representação de sinais periódicos de tempo contínuo com séries de Fourier
+- Energia e Potência
+- Transformada de Fourier
+
 ### Semana 10
+
+- Teorema de Parseval
+- Propriedades da Transformada de Fourier
+- Séries de Fourier de tempo discreto
 
 ### Semana 11
 
+- Transformada de Fourier de Tempo Discreto
+- Transformada Discreta de Fourier
+- Amostragem
+
 ### Semana 12
+
+- Aliasing
+- 
+
+- **Prova 3 (16/08) (Aula 36)**
 
 
 - Revisão de Números Complexos (Aula 2)
@@ -92,20 +124,20 @@
     + Amostragem Ideal (Aula 1)
     + Teorema de Nyquist e Aliasing (Aula )
 - Sinais e Sistemas a Tempo Discreto
-    + Sinais (Aula 1)
-    + Sistemas (Aula 1)
-    + Linearidade
-    + Invariância no Tempo
-    + Estabilidade BIBO
-    + Causalidade
-- Sistemas Lineares e Invariantes no Tempo (SLIT) (Aula )
-- Relação Entrada-Saída (Aula )
+    + Sinais (Aula 1, 4, 5)
+    + Sistemas (Aula 1, 4, 5, 6)
+    + Linearidade (Aula 4, 5)
+    + Invariância no Tempo (Aula 4,5)
+    + Estabilidade BIBO (Aula 4,5)
+    + Causalidade (Aula 4,5)
+- Sistemas Lineares e Invariantes no Tempo (SLIT) (Aula 4, 5, 6)
+- Relação Entrada-Saída (Aula 4, 5, 6)
 - Resposta Impulsiva (Aula )
 - Somatório de Convolução (Aula )
 - Transformada Z
     + Definição (Aula )
     + Região de Convergência (Aula )
-    + Funções Comuns (Impulso Unitário, Degrau Unitário,...) (Aula )
+    + Funções Comuns (Impulso Unitário, Degrau Unitário,...) (Aula 4)
     + Propriedades (Aula )
     + Resolução de Equações à Diferenças Finitas (Aula )
 - Funções de Transferência (Aula )
