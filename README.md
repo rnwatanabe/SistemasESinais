@@ -41,7 +41,7 @@
 ### Semana 5
 
 - [Somatória de convolução (Aula 13)](SomatoriaConvolução.ipynb)
-- Integral de convolução (Aula 14)
+- [Integral de convolução (Aula 14)](IntegralConvolução.ipynb)
 - Resposta em frequência: tempo contínuo (Aula 15)
 
 ### Semana 6
