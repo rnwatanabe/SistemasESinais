@@ -23,7 +23,7 @@
 
 ### Semana 3
 
-- Solução de equações de diferenças (Aula 7)
+- [Solução de equações de diferenças (Aula 7)](Soleqdiferenca.ipynb)
 - [Resposta ao impulso de tempo discreto (Aula 8)](RespostaImpulsoDiscreta.ipynb)
 - [Sistemas de tempo contínuo: representação com equações diferenciais e suas propriedades (Aula 9)](SistemasContinuo.ipynb)
 - [Representação de diagrama de blocos de sistemas contínuos (Aula 9)](DiagBlocoCont.ipynb)
@@ -33,8 +33,8 @@
 
 ### Semana 4
 
-- Solução de equações diferenciais (Aula 10)
-- Resposta ao impulso de tempo contínuo(Aula 11)
+- [Solução de equações diferenciais (Aula 10)](Soleqdiferencial.ipynb)
+- [Resposta ao impulso de tempo contínuo (Aula 11)](RespostaImpulsoContinuo.ipynb)
 
 - **Prova 1 (aula 12) 21/06**
 
@@ -90,6 +90,7 @@
 
 - **Prova 3 (16/08) (Aula 36)**
 
+## Ementa
 
 - Revisão de Números Complexos (Aula 2)
 - Sinais e Sistemas a Tempo Contínuo 
