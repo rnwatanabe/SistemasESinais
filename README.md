@@ -47,7 +47,7 @@
 ### Semana 6
 
 - Resposta em frequência: tempo discreto (Aula 16)
-- Diagaram de Bode (Aula 17)
+- Diagarama de Bode (Aula 17)
 - Atraso de Grupo (Aula 18)
 - Sistemas de Fase Linear (Aula 18)
 - Sistemas de Fase Mínima. (Aula 18)
