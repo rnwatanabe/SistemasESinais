@@ -42,7 +42,9 @@
 
 - [Somatória de convolução (Aula 13)](SomatoriaConvolução.ipynb)
 - [Integral de convolução (Aula 14)](IntegralConvolução.ipynb)
-- Resposta em frequência: tempo contínuo (Aula 15)
+- [Resposta em frequência: tempo contínuo (Aula 15)](RespostaFrequênciaContinuo.ipynb)
+
+- **Lista 4 para (03/07), 8h**
 
 ### Semana 6
 
