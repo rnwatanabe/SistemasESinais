@@ -43,14 +43,14 @@
 - [Somatória de convolução (Aula 13)](SomatoriaConvolução.ipynb)
 - [Integral de convolução (Aula 14)](IntegralConvolução.ipynb)
 - [Resposta em frequência: tempo contínuo (Aula 15)](RespostaFrequênciaContinuo.ipynb)
+- [Resposta em frequência: tempo discreto (Aula 15)](RespostaFrequênciaDiscreto.ipynb)
 
 - **Lista 4 para (03/07), 8h**
 
 ### Semana 6
 
-- Resposta em frequência: tempo discreto (Aula 16)
-- Diagarama de Bode (Aula 17)
-- Atraso de Grupo (Aula 18)
+- Diagarama de Bode (Aula 16)
+- Atraso de Grupo (Aula 17)
 - Sistemas de Fase Linear (Aula 18)
 - Sistemas de Fase Mínima. (Aula 18)
 
