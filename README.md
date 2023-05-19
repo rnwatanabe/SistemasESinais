@@ -49,23 +49,23 @@
 
 ### Semana 6
 
-- Diagarama de Bode (Aula 16)
-- Atraso de Grupo (Aula 17)
-- Sistemas de Fase Linear (Aula 18)
-- Sistemas de Fase Mínima. (Aula 18)
+- Transformada Z (Aula 16)
+- Transformada Z Inversa (Aula 17 e 18)
+- Método das Frações parciais (Aula 17 e 18)
 
 ### Semana 7
 
-- Transformada Z (Aula 19)
-- Transformada Z Inversa (Aula 20 e 21)
-- Método das Frações parciais (Aula 20 e 21)
+- Transformada de Laplace (Aula 19)
+- Transformada Inversa de Laplace (Aula 20)
+- Diagarama de Bode (Aula 21)
 
 ### Semana 8
 
-- Transformada de Laplace (Aula 16)
-- Transformada Inversa de Laplace (Aula 17)
+- Atraso de Grupo (Aula 22)
+- Sistemas de Fase Linear (Aula 23)
+- Sistemas de Fase Mínima. (Aula 23)
 
-- **Prova 2 (19/07) (Aula 18)**
+- **Prova 2 (19/07) (Aula 24)**
 
 ### Semana 9
 
