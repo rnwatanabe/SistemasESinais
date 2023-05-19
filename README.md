@@ -57,13 +57,11 @@
 
 - Transformada de Laplace (Aula 19)
 - Transformada Inversa de Laplace (Aula 20)
-- Diagarama de Bode (Aula 21)
+- Diagrama de Bode (Aula 21)
 
 ### Semana 8
 
-- Atraso de Grupo (Aula 22)
-- Sistemas de Fase Linear (Aula 23)
-- Sistemas de Fase Mínima. (Aula 23)
+- Estabilidade (22 e 23)
 
 - **Prova 2 (19/07) (Aula 24)**
 
@@ -88,67 +86,9 @@
 ### Semana 12
 
 - Aliasing
-- 
+- - Atraso de Grupo (Aula 22)
+- Sistemas de Fase Linear (Aula 23)
+- Sistemas de Fase Mínima. (Aula 23)
 
 - **Prova 3 (16/08) (Aula 36)**
 
-## Ementa
-
-- Revisão de Números Complexos (Aula 2)
-- Sinais e Sistemas a Tempo Contínuo 
-    + Sinais (Aula 1)
-    + Sistemas (Aula 1)
-    + Linearidade
-    + Invariância no Tempo
-    + Estabilidade BIBO 
-    + Causalidade 
-- Representação de Sinais Periódicos usando Séries de Fourier
-    + Forma Trigonométrica (Aula )
-    + Forma Exponencial (Aula 2,3)
-    + Espectro de Amplitude, Espectro de Fase e Relação de Parseval (Aula )
-- Sistemas Lineares e Invariantes no Tempo (SLIT)
-    + Relação Entrada-Saída (Aula )
-    + Resposta Impulsiva (Aula )
-    + Integral de Convolução (Aula )
-- Transformada de Laplace
-    + Definição e Região de Convergência (Aula )
-    + Propriedades (Aula )
-    - Resolução de Equações Diferenciais Ordinárias
-- Funções de Transferência (Aula )
-- Transformada de Laplace Inversa e Método de Frações Parciais (Aula )
-- Resposta em Freqüência
-    + Diagramas de Bode (Sistemas de 1a Ordem e 2a Ordem) (Aula )
-- Transformada de Fourier a Tempo Contínuo 
-    + Definição (Aula )
-    + Relações com a Transformada de Laplace (Aula )
-    + Transformada Inversa de Fourier (Aula )
-    + Propriedades (Aula )
-- Amostragem de Sinais Limitados em Faixa:
-    + Amostragem Ideal (Aula 1)
-    + Teorema de Nyquist e Aliasing (Aula )
-- Sinais e Sistemas a Tempo Discreto
-    + Sinais (Aula 1, 4, 5)
-    + Sistemas (Aula 1, 4, 5, 6)
-    + Linearidade (Aula 4, 5)
-    + Invariância no Tempo (Aula 4,5)
-    + Estabilidade BIBO (Aula 4,5)
-    + Causalidade (Aula 4,5)
-- Sistemas Lineares e Invariantes no Tempo (SLIT) (Aula 4, 5, 6)
-- Relação Entrada-Saída (Aula 4, 5, 6)
-- Resposta Impulsiva (Aula )
-- Somatório de Convolução (Aula )
-- Transformada Z
-    + Definição (Aula )
-    + Região de Convergência (Aula )
-    + Funções Comuns (Impulso Unitário, Degrau Unitário,...) (Aula 4)
-    + Propriedades (Aula )
-    + Resolução de Equações à Diferenças Finitas (Aula )
-- Funções de Transferência (Aula )
-- Transformada Z Inversa (Aula )
-- Método de Frações Parciais (Aula )
-- Resposta em Frequência a partir da Transformada Z (Aula )
-- Introdução à Transformada Discreta de Fourier (Aula )
-- Resposta em Freqüência
-    + Atraso de Grupo (Aula )
-    + Sistemas de Fase Linear (Aula )
-    + Sistemas de Fase Mínima. (Aula )
