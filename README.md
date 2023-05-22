@@ -10,7 +10,7 @@
 - [Representação complexa de sinais periódicos de tempo contínuo (Aula 2)](RepresentaçãoComplexaContinua.ipynb)
 - [Representação complexa de sinais periódicos de tempo discreto (Aula 3)](RepresentacaoComplexaDiscreta.ipynb)
 
-- **Lista 1 (para 05/06), 8h**
+- **Lista 1, para 05/06, 8h**
 
 ### Semana 2
 
@@ -18,7 +18,7 @@
 - [Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)](SistemasDiscreto.ipynb)
 - [Representação com diagrama de blocos (Aula 6)](DiagBlocoDisc.ipynb)
 
-- **Lista 2 (para 12/06), 8h**
+- **Lista 2, para 12/06, 8h**
 
 
 ### Semana 3
@@ -29,7 +29,7 @@
 - [Representação de diagrama de blocos de sistemas contínuos (Aula 9)](DiagBlocoCont.ipynb)
 - [Sinais degrau e impulso de tempo contínuo (Aula 9)](DegrauImpulsoContinuo.ipynb)
 
-- **Lista 3 (para 19/06), 8h**
+- **Lista 3, para 19/06, 8h**
 
 ### Semana 4
 
@@ -45,23 +45,30 @@
 - [Resposta em frequência: tempo contínuo (Aula 15)](RespostaFrequênciaContinuo.ipynb)
 - [Resposta em frequência: tempo discreto (Aula 15)](RespostaFrequênciaDiscreto.ipynb)
 
-- **Lista 4 para (03/07), 8h**
+- **Lista 4, para 03/07, 8h**
 
 ### Semana 6
 
-- Transformada Z (Aula 16)
-- Transformada Z Inversa (Aula 17 e 18)
-- Método das Frações parciais (Aula 17 e 18)
+- [Transformada Z (Aula 16)](TransfomadaZ.ipynb)
+- Função de Transferência de sistemas de tempo discreto (Aula 17)
+- Transformada Z Inversa (Aula 18)
+- Método das Frações parciais (Aula 18)
+
+  
+- **Lista 5, para 10/07, 8h**
 
 ### Semana 7
 
-- Transformada de Laplace (Aula 19)
+- Solução de equações de diferenças (Aula 19)
+- Transformada de Laplace(Aula 20)
+- Função de transferência de sistemas de tempo contínuo(Aula 20)
 - Transformada Inversa de Laplace (Aula 20)
-- Diagrama de Bode (Aula 21)
+- Solução de equações diferenciais (Aula 21)
 
+- **Lista 6, para 17/07, 8h**
 ### Semana 8
 
-- Estabilidade (22 e 23)
+- Estabilidade de sistemas (22 e 23)
 
 - **Prova 2 (19/07) (Aula 24)**
 
@@ -71,11 +78,15 @@
 - Energia e Potência
 - Transformada de Fourier
 
+- **Lista 7, para 31/07, 8h**
+
 ### Semana 10
 
 - Teorema de Parseval
 - Propriedades da Transformada de Fourier
 - Séries de Fourier de tempo discreto
+
+- **Lista 8, para 07/08, 8h**
 
 ### Semana 11
 
@@ -83,10 +94,12 @@
 - Transformada Discreta de Fourier
 - Amostragem
 
-### Semana 12
+- **Lista 9, para 14/08, 8h**
 
+### Semana 12
+- Diagrama de Bode (Aula 21)
 - Aliasing
-- - Atraso de Grupo (Aula 22)
+- Atraso de Grupo (Aula 22)
 - Sistemas de Fase Linear (Aula 23)
 - Sistemas de Fase Mínima. (Aula 23)
 
