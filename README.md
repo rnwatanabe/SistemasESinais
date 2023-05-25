@@ -1,5 +1,9 @@
 # Métodos Matemáticos Aplicados a Sistemas Biológicos 
 
+Renato Naville Watanabe
+
+(oferecida no segundo quadrimestre de 2023)
+
 ## Cronograma (tentativa)
 
 ### Semana 1
@@ -50,10 +54,8 @@
 ### Semana 6
 
 - [Transformada Z (Aula 16)](TransfomadaZ.ipynb)
-- Função de Transferência de sistemas de tempo discreto (Aula 17)
-- Transformada Z Inversa (Aula 18)
-- Método das Frações parciais (Aula 18)
-
+- [Transformada Z Inversa (Aula 17)](TransformadaZInversa.ipynb)
+- [Função de Transferência de sistemas de tempo discreto (Aula 18)](FuncaoTransferenciaDiscreto.ipynb)
   
 - **Lista 5, para 10/07, 8h**
 
@@ -74,34 +76,35 @@
 
 ### Semana 9
 
-- Representação de sinais periódicos de tempo contínuo com séries de Fourier
-- Energia e Potência
-- Transformada de Fourier
+- Representação de sinais periódicos de tempo contínuo com séries de Fourier (Aula 25)
+- Energia e Potência (Aula 25)
+- Transformada de Fourier (Aula 26)
+- Teorema de Parseval (Aula 27)
+- Propriedades da Transformada de Fourier (Aula 27)
 
 - **Lista 7, para 31/07, 8h**
 
 ### Semana 10
 
-- Teorema de Parseval
-- Propriedades da Transformada de Fourier
-- Séries de Fourier de tempo discreto
+- Séries de Fourier de tempo discreto (Aula 28)
+- Transformada de Fourier de Tempo Discreto (Aula 29)
+- Transformada Discreta de Fourier (Aula 30)
 
 - **Lista 8, para 07/08, 8h**
 
 ### Semana 11
 
-- Transformada de Fourier de Tempo Discreto
-- Transformada Discreta de Fourier
-- Amostragem
+- Amostragem (Aula 31)
+- Aliasing (Aula 32)
+- Diagrama de Bode (Aula 33)
 
 - **Lista 9, para 14/08, 8h**
 
 ### Semana 12
-- Diagrama de Bode (Aula 21)
-- Aliasing
-- Atraso de Grupo (Aula 22)
-- Sistemas de Fase Linear (Aula 23)
-- Sistemas de Fase Mínima. (Aula 23)
+
+- Atraso de Grupo (Aula 34)
+- Sistemas de Fase Linear (Aula 35)
+- Sistemas de Fase Mínima. (Aula 35)
 
 - **Prova 3 (16/08) (Aula 36)**
 
