@@ -4,6 +4,8 @@ Renato Naville Watanabe
 
 (oferecida no segundo quadrimestre de 2023)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rnwatanabe/SistemasESinais/HEAD)
+
 ## Cronograma (tentativa)
 
 ### Semana 1
