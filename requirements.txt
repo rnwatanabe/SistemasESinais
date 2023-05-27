@@ -3,5 +3,6 @@ scipy
 matplotlib
 ipywidgets
 psd2
+rise
 manim
 sympy
