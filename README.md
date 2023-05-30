@@ -23,23 +23,23 @@ Renato Naville Watanabe
 - [Funções degrau e impulso de tempo discreto (Aula 4)](DegrauImpulsoDiscreto.ipynb)
 - [Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)](SistemasDiscreto.ipynb)
 - [Representação com diagrama de blocos (Aula 6)](DiagBlocoDisc.ipynb)
+- [Resposta ao impulso de tempo discreto (Aula 6)](RespostaImpulsoDiscreta.ipynb)
 
 - **Lista 2, para 12/06, 8h**
 
 ### Semana 3
 
 - [Solução de equações de diferenças (Aula 7)](Soleqdiferenca.ipynb)
-- [Resposta ao impulso de tempo discreto (Aula 8)](RespostaImpulsoDiscreta.ipynb)
-- [Sistemas de tempo contínuo: representação com equações diferenciais e suas propriedades (Aula 9)](SistemasContinuo.ipynb)
-- [Representação de diagrama de blocos de sistemas contínuos (Aula 9)](DiagBlocoCont.ipynb)
+- [Sistemas de tempo contínuo: representação com equações diferenciais e suas propriedades (Aula 8)](SistemasContinuo.ipynb)
+- [Representação de diagrama de blocos de sistemas contínuos (Aula 8)](DiagBlocoCont.ipynb)
 - [Sinais degrau e impulso de tempo contínuo (Aula 9)](DegrauImpulsoContinuo.ipynb)
+- [Solução de equações diferenciais (Aula 10)](Soleqdiferencial.ipynb)
 
 - **Lista 3, para 19/06, 8h**
 
 ### Semana 4
 
-- [Solução de equações diferenciais (Aula 10)](Soleqdiferencial.ipynb)
-- [Resposta ao impulso de tempo contínuo (Aula 11)](RespostaImpulsoContinuo.ipynb)
+- [Resposta ao impulso de tempo contínuo (Aula 12 e 13)](RespostaImpulsoContinuo.ipynb)
 
 - **Prova 1 (aula 12) 21/06**
 
