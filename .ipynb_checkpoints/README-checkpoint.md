@@ -33,13 +33,14 @@ Renato Naville Watanabe
 - [Sistemas de tempo contínuo: representação com equações diferenciais e suas propriedades (Aula 8)](SistemasContinuo.ipynb)
 - [Representação de diagrama de blocos de sistemas contínuos (Aula 8)](DiagBlocoCont.ipynb)
 - [Sinais degrau e impulso de tempo contínuo (Aula 9)](DegrauImpulsoContinuo.ipynb)
-- [Solução de equações diferenciais (Aula 10)](Soleqdiferencial.ipynb)
+- [Solução de equações diferenciais (Aula 9)](Soleqdiferencial.ipynb)
 
 - **Lista 3, para 19/06, 8h**
 
 ### Semana 4
 
-- [Resposta ao impulso de tempo contínuo (Aula 12 e 13)](RespostaImpulsoContinuo.ipynb)
+- [Resposta ao impulso de tempo contínuo (Aula 10)](RespostaImpulsoContinuo.ipynb)
+- [Energia e Potência (Aula 11)](EnergiaPotencia.ipynb)
 
 - **Prova 1 (aula 12) 21/06**
 
@@ -79,7 +80,6 @@ Renato Naville Watanabe
 ### Semana 9
 
 - Representação de sinais periódicos de tempo contínuo com séries de Fourier (Aula 25)
-- Energia e Potência (Aula 25)
 - Transformada de Fourier (Aula 26)
 - Teorema de Parseval (Aula 27)
 - Propriedades da Transformada de Fourier (Aula 27)
@@ -98,12 +98,13 @@ Renato Naville Watanabe
 
 - Amostragem (Aula 31)
 - Aliasing (Aula 32)
-- Diagrama de Bode (Aula 33)
+- [Conversão de um sistema contínuo para discreto (Aula 33)](ContParaDiscreto.ipynb)
+
 
 - **Lista 9, para 14/08, 8h**
 
 ### Semana 12
-
+- Diagrama de Bode (Aula 34)
 - Atraso de Grupo (Aula 34)
 - Sistemas de Fase Linear (Aula 35)
 - Sistemas de Fase Mínima. (Aula 35)

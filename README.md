@@ -21,7 +21,7 @@ Renato Naville Watanabe
 ### Semana 2
 
 - [Funções degrau e impulso de tempo discreto (Aula 4)](DegrauImpulsoDiscreto.ipynb)
-- [Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)](SistemasDiscreto.ipynb)
+- [Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)](SistemasDiscretos.ipynb)
 - [Representação com diagrama de blocos (Aula 6)](DiagBlocoDisc.ipynb)
 - [Resposta ao impulso de tempo discreto (Aula 6)](RespostaImpulsoDiscreta.ipynb)
 
@@ -41,7 +41,6 @@ Renato Naville Watanabe
 
 - [Resposta ao impulso de tempo contínuo (Aula 10)](RespostaImpulsoContinuo.ipynb)
 - [Energia e Potência (Aula 11)](EnergiaPotencia.ipynb)
-
 
 - **Prova 1 (aula 12) 21/06**
 
