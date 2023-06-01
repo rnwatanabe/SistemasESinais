@@ -31,15 +31,15 @@ Renato Naville Watanabe
 
 - [Solução de equações de diferenças (Aula 7)](Soleqdiferenca.ipynb)
 - [Sistemas de tempo contínuo: representação com equações diferenciais e suas propriedades (Aula 8)](SistemasContinuo.ipynb)
-- [Representação de diagrama de blocos de sistemas contínuos (Aula 8)](DiagBlocoCont.ipynb)
-- [Sinais degrau e impulso de tempo contínuo (Aula 9)](DegrauImpulsoContinuo.ipynb)
+- [Sinais degrau e impulso de tempo contínuo (Aula 8)](DegrauImpulsoContinuo.ipynb)
 - [Solução de equações diferenciais (Aula 9)](Soleqdiferencial.ipynb)
+- [Resposta ao impulso de tempo contínuo (Aula 9)](RespostaImpulsoContinuo.ipynb)
 
 - **Lista 3, para 19/06, 8h**
 
 ### Semana 4
 
-- [Resposta ao impulso de tempo contínuo (Aula 10)](RespostaImpulsoContinuo.ipynb)
+- [Representação de diagrama de blocos de sistemas contínuos (Aula 10)](DiagBlocoCont.ipynb)
 - [Energia e Potência (Aula 11)](EnergiaPotencia.ipynb)
 
 - **Prova 1 (aula 12) 21/06**
@@ -99,7 +99,6 @@ Renato Naville Watanabe
 - Amostragem (Aula 31)
 - Aliasing (Aula 32)
 - [Conversão de um sistema contínuo para discreto (Aula 33)](ContParaDiscreto.ipynb)
-
 
 - **Lista 9, para 14/08, 8h**
 

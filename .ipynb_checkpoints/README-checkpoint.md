@@ -21,7 +21,7 @@ Renato Naville Watanabe
 ### Semana 2
 
 - [Funções degrau e impulso de tempo discreto (Aula 4)](DegrauImpulsoDiscreto.ipynb)
-- [Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)](SistemasDiscreto.ipynb)
+- [Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)](SistemasDiscretos.ipynb)
 - [Representação com diagrama de blocos (Aula 6)](DiagBlocoDisc.ipynb)
 - [Resposta ao impulso de tempo discreto (Aula 6)](RespostaImpulsoDiscreta.ipynb)
 
@@ -31,15 +31,15 @@ Renato Naville Watanabe
 
 - [Solução de equações de diferenças (Aula 7)](Soleqdiferenca.ipynb)
 - [Sistemas de tempo contínuo: representação com equações diferenciais e suas propriedades (Aula 8)](SistemasContinuo.ipynb)
-- [Representação de diagrama de blocos de sistemas contínuos (Aula 8)](DiagBlocoCont.ipynb)
-- [Sinais degrau e impulso de tempo contínuo (Aula 9)](DegrauImpulsoContinuo.ipynb)
+- [Sinais degrau e impulso de tempo contínuo (Aula 8)](DegrauImpulsoContinuo.ipynb)
 - [Solução de equações diferenciais (Aula 9)](Soleqdiferencial.ipynb)
+- [Resposta ao impulso de tempo contínuo (Aula 9)](RespostaImpulsoContinuo.ipynb)
 
 - **Lista 3, para 19/06, 8h**
 
 ### Semana 4
 
-- [Resposta ao impulso de tempo contínuo (Aula 10)](RespostaImpulsoContinuo.ipynb)
+- [Representação de diagrama de blocos de sistemas contínuos (Aula 10)](DiagBlocoCont.ipynb)
 - [Energia e Potência (Aula 11)](EnergiaPotencia.ipynb)
 
 - **Prova 1 (aula 12) 21/06**
