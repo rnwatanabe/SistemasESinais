@@ -24,23 +24,23 @@ Renato Naville Watanabe
 - [Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)](SistemasDiscretos.ipynb)
 - [Representação com diagrama de blocos (Aula 5)](DiagBlocoDisc.ipynb)
 - [Resposta ao impulso de tempo discreto (Aula 6)](RespostaImpulsoDiscreta.ipynb)
+- [Solução de equações de diferenças para entrada nula(Aula 6)](Soleqdiferenca.ipynb)
 
 - **Lista 2, para 12/06, 8h**
 
 ### Semana 3
 
-- [Solução de equações de diferenças (Aula 7)](Soleqdiferenca.ipynb)
-- [Sistemas de tempo contínuo: representação com equações diferenciais e suas propriedades (Aula 8)](SistemasContinuo.ipynb)
+- [Sistemas de tempo contínuo: representação com equações diferenciais e suas propriedades (Aula 7)](SistemasContinuo.ipynb)
 - [Sinais degrau e impulso de tempo contínuo (Aula 8)](DegrauImpulsoContinuo.ipynb)
-- [Solução de equações diferenciais (Aula 9)](Soleqdiferencial.ipynb)
+- [Solução de equações diferenciais  para entrada nula (Aula 8)](Soleqdiferencial.ipynb)
 - [Resposta ao impulso de tempo contínuo (Aula 9)](RespostaImpulsoContinuo.ipynb)
+- [Representação de diagrama de blocos de sistemas contínuos (Aula 9)](DiagBlocoCont.ipynb)
 
 - **Lista 3, para 19/06, 8h**
 
 ### Semana 4
 
-- [Representação de diagrama de blocos de sistemas contínuos (Aula 10)](DiagBlocoCont.ipynb)
-- [Energia e Potência (Aula 11)](EnergiaPotencia.ipynb)
+- [Energia e Potência (Aula 10)](EnergiaPotencia.ipynb)
 
 - **Prova 1 (aula 12) 21/06**
 
@@ -55,7 +55,7 @@ Renato Naville Watanabe
 
 ### Semana 6
 
-- Transformada de Laplace(Aula 16)
+- [Transformada de Laplace(Aula 16)](TransfomadaLaplace.ipynb)
 - Transformada Inversa de Laplace (Aula 17)
 - Função de transferência de sistema contínuos (Aula 18)
   
