@@ -23,8 +23,9 @@ Renato Naville Watanabe
 - [Funções degrau e impulso de tempo discreto (Aula 4)](DegrauImpulsoDiscreto.ipynb)
 - [Sistemas discretos: representação com equações de diferenças e suas propriedades(Aula 4 e 5)](SistemasDiscretos.ipynb)
 - [Representação com diagrama de blocos (Aula 5)](DiagBlocoDisc.ipynb)
-- [Resposta ao impulso de tempo discreto (Aula 6)](RespostaImpulsoDiscreta.ipynb)
 - [Solução de equações de diferenças para entrada nula(Aula 6)](Soleqdiferenca.ipynb)
+- [Resposta ao impulso de tempo discreto (Aula 6)](RespostaImpulsoDiscreta.ipynb)
+
 
 - **Lista 2, para 12/06, 8h**
 
@@ -56,8 +57,8 @@ Renato Naville Watanabe
 ### Semana 6
 
 - [Transformada de Laplace(Aula 16)](TransfomadaLaplace.ipynb)
-- Transformada Inversa de Laplace (Aula 17)
-- Função de transferência de sistema contínuos (Aula 18)
+- [Transformada Inversa de Laplace (Aula 17)](TransformadaLaplaceInversa.ipynb)
+- [Função de transferência de sistema contínuos (Aula 18)](FuncaoTransferenciaContinuo.ipynb)
   
 - **Lista 5, para 10/07, 8h**
 
