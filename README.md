@@ -67,14 +67,14 @@ Renato Naville Watanabe
 - [Transformada Z (Aula 19)](TransfomadaZ.ipynb)
 - [Transformada Z Inversa (Aula 19)](TransformadaZInversa.ipynb)
 - [Função de Transferência de sistemas de tempo discreto (Aula 20)](FuncaoTransferenciaDiscreto.ipynb)
-- Estabilidade de Sistemas Contínuos (Aula 21)
+- [Estabilidade de Sistemas Contínuos (Aula 21)](EstabilidadeContinuo.ipynb)
 
 - **Lista 6, para 17/07, 8h**
 
 ### Semana 8
 
 - Estabilidade de sistemas discretos (Aula 22)
-- Realimentação (Aula 23)
+
 
 - **Prova 2 (19/07) (Aula 24)**
 
