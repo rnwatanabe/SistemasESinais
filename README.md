@@ -34,8 +34,8 @@ Renato Naville Watanabe
 - [Sistemas de tempo contínuo: representação com equações diferenciais e suas propriedades (Aula 7)](SistemasContinuo.ipynb)
 - [Sinais degrau e impulso de tempo contínuo (Aula 8)](DegrauImpulsoContinuo.ipynb)
 - [Solução de equações diferenciais  para entrada nula (Aula 8)](Soleqdiferencial.ipynb)
-- [Resposta ao impulso de tempo contínuo (Aula 9)](RespostaImpulsoContinuo.ipynb)
 - [Representação de diagrama de blocos de sistemas contínuos (Aula 9)](DiagBlocoCont.ipynb)
+- [Resposta ao impulso de tempo contínuo (Aula 9)](RespostaImpulsoContinuo.ipynb)
 
 - **Lista 3, para 19/06, 8h**
 
