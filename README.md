@@ -49,22 +49,20 @@ Renato Naville Watanabe
 
 - [Somatória de convolução (Aula 13)](SomatoriaConvolução.ipynb)
 - [Integral de convolução (Aula 14)](IntegralConvolução.ipynb)
-- [Resposta em frequência: tempo contínuo (Aula 15)](RespostaFrequênciaContinuo.ipynb)
-- [Resposta em frequência: tempo discreto (Aula 15)](RespostaFrequênciaDiscreto.ipynb)
+- [Transformada de Laplace(Aula 15)](TransfomadaLaplace.ipynb)
 
 - **Lista 4, para 03/07, 8h**
 
 ### Semana 6
 
-- [Transformada de Laplace(Aula 16)](TransfomadaLaplace.ipynb)
-- [Transformada Inversa de Laplace (Aula 17)](TransformadaLaplaceInversa.ipynb)
-- [Função de transferência de sistema contínuos (Aula 18)](FuncaoTransferenciaContinuo.ipynb)
+- [Transformada Inversa de Laplace (Aula 16)](TransformadaLaplaceInversa.ipynb)
+- [Função de transferência de sistema contínuos (Aula 17)](FuncaoTransferenciaContinuo.ipynb)
+- [Transformada Z (Aula 18)](TransfomadaZ.ipynb)
   
 - **Lista 5, para 10/07, 8h**
 
 ### Semana 7
 
-- [Transformada Z (Aula 19)](TransfomadaZ.ipynb)
 - [Transformada Z Inversa (Aula 19)](TransformadaZInversa.ipynb)
 - [Função de Transferência de sistemas de tempo discreto (Aula 20)](FuncaoTransferenciaDiscreto.ipynb)
 - [Estabilidade de Sistemas Contínuos (Aula 21)](EstabilidadeContinuo.ipynb)
@@ -75,20 +73,20 @@ Renato Naville Watanabe
 
 - Estabilidade de sistemas discretos (Aula 22)
 
-
 - **Prova 2 (19/07) (Aula 24)**
 
 ### Semana 9
 
-- Representação de sinais periódicos de tempo contínuo com séries de Fourier (Aula 25)
-- Transformada de Fourier (Aula 26)
-- Teorema de Parseval (Aula 27)
-- Propriedades da Transformada de Fourier (Aula 27)
+- [Resposta em frequência: tempo contínuo (Aula 25)](RespostaFrequênciaContinuo.ipynb
+- Representação de sinais periódicos de tempo contínuo com séries de Fourier (Aula 26)
+- Transformada de Fourier (Aula 27)
+
 
 - **Lista 7, para 31/07, 8h**
 
 ### Semana 10
 
+- [Resposta em frequência: tempo discreto (Aula 28)](RespostaFrequênciaDiscreto.ipynb)
 - Séries de Fourier de tempo discreto (Aula 28)
 - Transformada de Fourier de Tempo Discreto (Aula 29)
 - Transformada Discreta de Fourier (Aula 30)
