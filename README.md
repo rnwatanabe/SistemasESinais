@@ -77,7 +77,7 @@ Renato Naville Watanabe
 
 ### Semana 9
 
-- [Resposta em frequência: tempo contínuo (Aula 25)](RespostaFrequênciaContinuo.ipynb
+- [Resposta em frequência: tempo contínuo (Aula 25)](RespostaFrequênciaContinuo.ipynb)
 - Representação de sinais periódicos de tempo contínuo com séries de Fourier (Aula 26)
 - Transformada de Fourier (Aula 27)
 
