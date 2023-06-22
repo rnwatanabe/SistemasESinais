@@ -71,7 +71,7 @@ Renato Naville Watanabe
 
 ### Semana 8
 
-- Estabilidade de sistemas discretos (Aula 22)
+- [Estabilidade de sistemas discretos (Aula 22)](EstabilidadeDiscreto.ipynb)
 
 - **Prova 2 (19/07) (Aula 24)**
 
