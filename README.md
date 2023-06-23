@@ -49,7 +49,7 @@ Renato Naville Watanabe
 
 - [Somatória de convolução (Aula 13)](SomatoriaConvolução.ipynb)
 - [Integral de convolução (Aula 14)](IntegralConvolução.ipynb)
-- [Transformada de Laplace(Aula 15)](TransfomadaLaplace.ipynb)
+- [Transformada de Laplace(Aula 15)](TransformadaLaplace.ipynb)
 
 - **Lista 4, para 03/07, 8h**
 
@@ -57,7 +57,7 @@ Renato Naville Watanabe
 
 - [Transformada Inversa de Laplace (Aula 16)](TransformadaLaplaceInversa.ipynb)
 - [Função de transferência de sistema contínuos (Aula 17)](FuncaoTransferenciaContinuo.ipynb)
-- [Transformada Z (Aula 18)](TransfomadaZ.ipynb)
+- [Transformada Z (Aula 18)](TransformadaZ.ipynb)
   
 - **Lista 5, para 10/07, 8h**
 
@@ -78,9 +78,8 @@ Renato Naville Watanabe
 ### Semana 9
 
 - [Resposta em frequência: tempo contínuo (Aula 25)](RespostaFrequênciaContinuo.ipynb)
-- Representação de sinais periódicos de tempo contínuo com séries de Fourier (Aula 26)
+- [Séries de Fourier de sinais de tempo contínuo(Aula 26)](SerieFourierContinuo.ipynb)
 - Transformada de Fourier (Aula 27)
-
 
 - **Lista 7, para 31/07, 8h**
 
@@ -89,15 +88,15 @@ Renato Naville Watanabe
 - [Resposta em frequência: tempo discreto (Aula 28)](RespostaFrequênciaDiscreto.ipynb)
 - Séries de Fourier de tempo discreto (Aula 28)
 - Transformada de Fourier de Tempo Discreto (Aula 29)
-- Transformada Discreta de Fourier (Aula 30)
+- Amostragem (Aula 30)
 
 - **Lista 8, para 07/08, 8h**
 
 ### Semana 11
 
-- Amostragem (Aula 31)
-- Aliasing (Aula 32)
-- [Conversão de um sistema contínuo para discreto (Aula 33)](ContParaDiscreto.ipynb)
+- Aliasing (Aula 31)
+- [Conversão de um sistema contínuo para discreto (Aula 32)](ContParaDiscreto.ipynb)
+- Transformada Discreta de Fourier (Aula 33)
 
 - **Lista 9, para 14/08, 8h**
 
