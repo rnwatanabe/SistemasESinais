@@ -79,7 +79,7 @@ Renato Naville Watanabe
 
 - [Resposta em frequência: tempo contínuo (Aula 25)](RespostaFrequênciaContinuo.ipynb)
 - [Séries de Fourier de sinais de tempo contínuo(Aula 26)](SerieFourierContinuo.ipynb)
-- Transformada de Fourier (Aula 27)
+- [Transformada de Fourier (Aula 27)](TransformadaFourier.ipynb)
 
 - **Lista 7, para 31/07, 8h**
 
@@ -101,7 +101,7 @@ Renato Naville Watanabe
 - **Lista 9, para 14/08, 8h**
 
 ### Semana 12
-- Diagrama de Bode (Aula 34)
+
 - Atraso de Grupo (Aula 34)
 - Sistemas de Fase Linear (Aula 35)
 - Sistemas de Fase Mínima. (Aula 35)
