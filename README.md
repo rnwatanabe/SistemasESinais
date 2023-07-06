@@ -88,13 +88,13 @@ Renato Naville Watanabe
 - [Resposta em frequência: tempo discreto (Aula 28)](RespostaFrequênciaDiscreto.ipynb)
 - Séries de Fourier de tempo discreto (Aula 28)
 - Transformada de Fourier de Tempo Discreto (Aula 29)
-- Amostragem (Aula 30)
+- Filtros (Aula 30)
 
 - **Lista 8, para 07/08, 8h**
 
 ### Semana 11
 
-- Aliasing (Aula 31)
+- Amostragem (Aula 31)
 - [Conversão de um sistema contínuo para discreto (Aula 32)](ContParaDiscreto.ipynb)
 - Transformada Discreta de Fourier (Aula 33)
 
