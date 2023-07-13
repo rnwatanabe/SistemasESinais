@@ -85,26 +85,26 @@ Renato Naville Watanabe
 
 ### Semana 10
 
-- [Resposta em frequência: tempo discreto (Aula 28)](RespostaFrequênciaDiscreto.ipynb)
-- Séries de Fourier de tempo discreto (Aula 28)
-- Transformada de Fourier de Tempo Discreto (Aula 29)
-- Filtros (Aula 30)
+- Filtros de tempo contínuo (Aula 28)
+- [Resposta em frequência: tempo discreto (Aula 29)](RespostaFrequênciaDiscreto.ipynb)
+- [Séries de Fourier de tempo discreto (Aula 29)](SerieFourierContinuo.ipynb)
+- [Transformada de Fourier de Tempo Discreto (Aula 30)](TransformadaFourierTempoDiscreto.ipynb)
+
 
 - **Lista 8, para 07/08, 8h**
 
 ### Semana 11
 
-- Amostragem (Aula 31)
-- [Conversão de um sistema contínuo para discreto (Aula 32)](ContParaDiscreto.ipynb)
+- Filtros de tempo discreto (Aula 31)
+- Amostragem (Aula 32)
 - Transformada Discreta de Fourier (Aula 33)
 
 - **Lista 9, para 14/08, 8h**
 
 ### Semana 12
 
-- Atraso de Grupo (Aula 34)
-- Sistemas de Fase Linear (Aula 35)
-- Sistemas de Fase Mínima. (Aula 35)
+- [Conversão de um sistema contínuo para discreto (Aula 34)](ContParaDiscreto.ipynb)
+
 
 - **Prova 3 (16/08) (Aula 36)**
 
