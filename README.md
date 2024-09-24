@@ -11,7 +11,7 @@ Renato Naville Watanabe
 ### Aula 1
 
 - [Introdução](Introducao.ipynb)
-- [Transformações de sinais na variável independente](TransfVarIndep.ipynb)
+- [Transformações de sinais de tempo discreto na variável independente](TransfVarIndepDiscreto.ipynb)
 - [Revisão de números complexos](NumerosComplexos.ipynb)
 
 
