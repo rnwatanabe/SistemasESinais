@@ -78,7 +78,7 @@ Renato Naville Watanabe
 
 ### Aula 10
 
-- [Resposta em frequência: tempo discreto](RespostaFrequênciaDiscreto.ipynb)
+- [Resposta em frequência](RespostaFrequênciaDiscreto.ipynb)
 
 
 - **Lista 10, para 12/12, 19h**
