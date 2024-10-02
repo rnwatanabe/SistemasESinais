@@ -88,7 +88,6 @@ Renato Naville Watanabe
 - [Séries de Fourier de tempo discreto](SerieFourierContinuo.ipynb)
 - [Transformada de Fourier de Tempo Discreto](TransformadaFourierTempoDiscreto.ipynb)
  
-- **Lista 11, para 19/12, 21h**
 
 
 ### Aula 12
