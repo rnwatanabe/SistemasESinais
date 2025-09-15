@@ -85,12 +85,10 @@ Renato Naville Watanabe
 
 ### Aula 11 (11/12)
 
-- [Séries de Fourier de tempo discreto](SerieFourierContinuo.ipynb)
-- [Transformada de Fourier de Tempo Discreto](TransformadaFourierTempoDiscreto.ipynb)
- 
+ **Prova (11/12)**
 
 
-### Aula 12 (18/12)
 
-- **Prova (18/12)**
+
+
 
