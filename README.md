@@ -15,7 +15,7 @@ Renato Naville Watanabe
 - [Revisão de números complexos](NumerosComplexos.ipynb)
 
 
-- **Lista 1, para 02/10, 19h**
+- **Tarefa 1, para 02/10, 19h**
 
 ### Aula 2 (02/10)
 
@@ -23,7 +23,7 @@ Renato Naville Watanabe
 - [Funções degrau e impulso de tempo discreto](DegrauImpulsoDiscreto.ipynb)
 
 
-- **Lista 2, para 09/10, 19h**
+- **Tarefa 2, para 09/10, 19h**
 
 ### Aula 3 (09/10)
 
@@ -31,7 +31,7 @@ Renato Naville Watanabe
 - [Representação com diagrama de blocos](DiagBlocoDisc.ipynb)
 
 
-- **Lista 3, para 16/10, 19h**
+- **Tarefa 3, para 16/10, 19h**
 
 ### Aula 4 (16/10)
 
@@ -39,20 +39,20 @@ Renato Naville Watanabe
 - [Resposta ao impulso de tempo discreto](RespostaImpulsoDiscreta.ipynb)
 
 
-- **Lista 4, para 23/10, 19h**
+- **Tarefa 4, para 23/10, 19h**
 
 ### Aula 5 (23/10)
 
 - [Somatória de convolução](SomatoriaConvolução.ipynb)
 
 
-- **Lista 5, para 30/10, 19h**
+- **Tarefa 5, para 30/10, 19h**
 
 ### Aula 6 (30/10)
 
 - [Transformada Z](TransformadaZ.ipynb)
   
-- **Lista 6, para 06/11, 19h**
+- **Tarefa 6, para 06/11, 19h**
 
 ### Aula 7 (06/11)
 
@@ -60,20 +60,20 @@ Renato Naville Watanabe
 - [Função de Transferência de sistemas de tempo discreto](FuncaoTransferenciaDiscreto.ipynb)
 
 
-- **Lista 7, para 13/11, 19h**
+- **Tarefa 7, para 13/11, 19h**
 
 ### Aula 8 (13/11)
 
 - [Estabilidade de sistemas discretos](EstabilidadeDiscreto.ipynb)
 
-- **Lista 8, para 27/11, 19h**
+- **Tarefa 8, para 27/11, 19h**
 
 
 ### Aula 9 (27/11)
 
 - [Amostragem](Amostragem.ipynb)
 
-- **Lista 9, para 04/12, 19h**
+- **Tarefa 9, para 04/12, 19h**
 
 
 ### Aula 10 (04/12)
@@ -81,7 +81,7 @@ Renato Naville Watanabe
 - [Resposta em frequência](RespostaFrequênciaDiscreto.ipynb)
 
 
-- **Lista 10, para 11/12, 19h**
+- **Tarefa 10, para 11/12, 19h**
 
 ### Aula 11 (11/12)
 
